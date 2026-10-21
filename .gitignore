@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.janela_pos
+
+# imagens ficam fora, exceto o exemplo dos girassóis
+*.jpg
+*.jpeg
+*.png
+*.gif
+!girassois.jpg
+!pintura.png
+!processo.gif
